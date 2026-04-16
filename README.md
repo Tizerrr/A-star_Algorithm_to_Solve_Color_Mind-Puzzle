@@ -1,1 +1,1 @@
-# -A-Algorithm-to-Solve-Color-Mind-Puzzle
+# A* Algorithm to Solve Color Mind Puzzle
